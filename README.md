@@ -1,4 +1,4 @@
-Plugin for Hex TCG Card Tooltips for Wordpress
+Hex TCGBrowser Card Tooltips for Wordpress
 ================================
 
 Enables card images to show on mouseover for Hex TCG cards. It provides a button (and corresponding shortcode tags) that wrap card names and turn them into smart card links with image tooltips.
@@ -8,4 +8,4 @@ For more details and installation instructions please see the
 
 Examples
 --------
-![screenshot](https://github.com/bogycoins/wordpress_hex_tcgbrowser_tooltip/blob/master/sample.jpg)
+![screenshot](https://github.com/bogycoins/wordpress_hex_tcgbrowser_tooltip/master/sample.jpg)
