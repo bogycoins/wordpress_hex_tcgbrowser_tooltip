@@ -8,4 +8,4 @@ For more details and installation instructions please see the
 
 Examples
 --------
-![screenshot](https://github.com/bogycoins/wordpress_hex_tcgbrowser_tooltip/master/sample.jpg)
+[screenshot](https://github.com/bogycoins/wordpress_hex_tcgbrowser_tooltip/blob/master/sample.jpg)
